@@ -2,10 +2,10 @@
 <img src="https://raw.githubusercontent.com/Xinz-Team/XinzBot/main/media/Itsuki.jpg" alt="FIRO BOT" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="XINZ BOT" src="https://img.shields.io/badge/XINZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+< a  href = "#" ><img  title = "Firo Bot"  src = " https://img.shields.io/badge/XINZ BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" ></ a >
 </p>
 <p align="center">
-<a href="https://github.com/zennn08"><img title="Author" src="https://img.shields.io/badge/Author-zennn08-red.svg?style=for-the-badge&logo=github"></a>
+< a  href = " https://github.com/FiroBot " >< img  title = "Penulis" src = " https://img.shields.io/badge/Author-FiroBot-red.svg?style=for- the-badge&logo=github " ></ a >
 </p>
 <p align="center">
 <a href="https://github.com/zennn08/followers"><img title="Followers" src="https://img.shields.io/github/followers/zennn08?color=blue&style=flat-square"></a>
