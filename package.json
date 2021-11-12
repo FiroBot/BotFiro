@@ -29,10 +29,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xinz-Team/XinzBot.git"
+    "url" : "git+https://github.com/FiroBot/BotFiro.git"
   },
   "bugs": {
-    "url": "https://github.com/Xinz-Team/XinzBot/issues"
+    "url" : "https://github.com/FiroBot/BotFiro/issues"
   },
-  "homepage": "https://github.com/Xinz-Team/XinzBot#readme"
+  "beranda" : "https://github.com/FiroBot/BotFiro#readme"
 }
