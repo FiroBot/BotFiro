@@ -1,0 +1,25 @@
+{
+    "ownerNumber": "
+6285929063761@s.whatsapp.net",
+    "ownerName": "Felycia",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "Firo Bot",
+    "pathImg": "./media/Itsuki.jpg",
+    "apikey": "YOUR_APIKEY",
+    "fake": "FIRO-BOTZ VERIFIED",
+    "sesidInsta": "default",
+    "sessionName": "Felycia",
+    "txtDonasi": "GOPAY : 085157226383\nDANA : 081396043549\nSaweeria : https://saweria.co/firobot\nTelkomsel : 081396043549",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
